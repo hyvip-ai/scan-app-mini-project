@@ -3,8 +3,6 @@
     "name": "barcode",
     "slug": "barcode",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
